@@ -1,0 +1,7 @@
+C:\Users\Phant\source\repos\BigIntegerEssentialCs\BigIntegerEssentialCs\obj\Debug\BigIntegerEssentialCs.csprojAssemblyReference.cache
+C:\Users\Phant\source\repos\BigIntegerEssentialCs\BigIntegerEssentialCs\obj\Debug\BigIntegerEssentialCs.csproj.CoreCompileInputs.cache
+C:\Users\Phant\source\repos\BigIntegerEssentialCs\BigIntegerEssentialCs\bin\Debug\BigIntegerEssentialCs.exe.config
+C:\Users\Phant\source\repos\BigIntegerEssentialCs\BigIntegerEssentialCs\bin\Debug\BigIntegerEssentialCs.exe
+C:\Users\Phant\source\repos\BigIntegerEssentialCs\BigIntegerEssentialCs\bin\Debug\BigIntegerEssentialCs.pdb
+C:\Users\Phant\source\repos\BigIntegerEssentialCs\BigIntegerEssentialCs\obj\Debug\BigIntegerEssentialCs.exe
+C:\Users\Phant\source\repos\BigIntegerEssentialCs\BigIntegerEssentialCs\obj\Debug\BigIntegerEssentialCs.pdb
